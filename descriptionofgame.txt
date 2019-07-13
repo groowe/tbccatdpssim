@@ -1,0 +1,10 @@
+# written possibly via pygame
+# similiar to cargame I did before
+# simulation of catdps
+# reacting to keypresses
+# counting how much dps it does
+# recording best one and showing it as replay during next (or just replay)
+
+
+# maybe I could reconstruct the "constructs" minigame of BT
+# ale to az po reklame
